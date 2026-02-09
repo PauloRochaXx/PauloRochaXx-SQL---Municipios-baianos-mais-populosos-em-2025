@@ -2,7 +2,7 @@
 --Remover colunas desnecessárias e padronizar códigos de município entre tabelas
 --=================================================================================
 
--- Remove coluna desnecessária da tabela de códigos de municípios
+-- Remove coluna desnecessária da tabela de códigos de municípios.
 -- A coluna 'column6' não é utilizada nas análises, e sua remoção deixa a tabela mais enxuta
 ALTER TABLE dbo.tabela_cod_mun
 	DROP COLUMN column6;
@@ -25,3 +25,4 @@ FROM dbo.territorios_identidade_bahia
 INNER JOIN dbo.tabela_cod_mun
 	ON dbo.territorios_identidade_bahia.nome_municipio = dbo.tabela_cod_mun.nome_municipio;
 --=================================================================================
+
