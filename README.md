@@ -1,4 +1,4 @@
-![T-SQL](https://img.shields.io/badge/T-SQL-Advanced-blue)
+![T-SQL Advanced](https://img.shields.io/badge/T--SQL-Advanced-brightgreen)
 # Municípios Baianos Mais Populosos em 2025
 > Este projeto utiliza T-SQL avançado, incluindo SELECT TOP, WHERE, INNER JOIN, EXCEPT, UPDATE, ALTER TABLE e DROP COLUMN, demonstrando domínio completo de consultas, manipulação de dados e alterações de estrutura de tabelas no SQL Server.
 
