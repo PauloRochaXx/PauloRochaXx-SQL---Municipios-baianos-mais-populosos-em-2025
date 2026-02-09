@@ -1,0 +1,418 @@
+cod_territorio,nome_territorio,cod_municipio,nome_municipio
+01,Irecê,,América Dourada
+01,Irecê,,Barra do Mendes
+01,Irecê,,Barro Alto
+01,Irecê,,Cafarnaum
+01,Irecê,,Canarana
+01,Irecê,,Central
+01,Irecê,,Gentio do Ouro
+01,Irecê,,Ibipeba
+01,Irecê,,Ibititá
+01,Irecê,,Ipupiara
+01,Irecê,,Irecê
+01,Irecê,,Itaguaçu da Bahia
+01,Irecê,,João Dourado
+01,Irecê,,Jussara
+01,Irecê,,Lapão
+01,Irecê,,Mulungu do Morro
+01,Irecê,,Presidente Dutra
+01,Irecê,,São Gabriel
+01,Irecê,,Uibaí
+01,Irecê,,Xique-Xique 
+02,Velho Chico,,Barra
+02,Velho Chico,,Bom Jesus da Lapa
+02,Velho Chico,,Brotas de Macaúbas
+02,Velho Chico,,Carinhanha
+02,Velho Chico,,Feira da Mata
+02,Velho Chico,,Ibotirama
+02,Velho Chico,,Igaporã
+02,Velho Chico,,Malhada
+02,Velho Chico,,Matina
+02,Velho Chico,,Morpará 
+02,Velho Chico,,Muquém do São Francisco
+02,Velho Chico,,Oliveira dos Brejinhos
+02,Velho Chico,,Paratinga
+02,Velho Chico,,Riacho de Santana
+02,Velho Chico,,Serra do Ramalho
+02,Velho Chico,,Sítio do Mato
+03,Chapada Diamantina,,Abaíra
+03,Chapada Diamantina,,Andaraí
+03,Chapada Diamantina,,Barra da Estiva
+03,Chapada Diamantina,,Boninal
+03,Chapada Diamantina,,Bonito
+03,Chapada Diamantina,,Ibicoara
+03,Chapada Diamantina,,Ibitiara
+03,Chapada Diamantina,,Iramaia
+03,Chapada Diamantina,,Iraquara
+03,Chapada Diamantina,,Itaeté
+03,Chapada Diamantina,,Jussiape
+03,Chapada Diamantina,,Lençóis
+03,Chapada Diamantina,,Marcionílio Souza
+03,Chapada Diamantina,,Morro do Chapéu
+03,Chapada Diamantina,,Mucugê
+03,Chapada Diamantina,,Nova Redenção
+03,Chapada Diamantina,,Novo Horizonte
+03,Chapada Diamantina,,Palmeiras
+03,Chapada Diamantina,,Piatã
+03,Chapada Diamantina,,Rio de Contas
+03,Chapada Diamantina,,Seabra
+03,Chapada Diamantina,,Souto Soares
+03,Chapada Diamantina,,Utinga
+03,Chapada Diamantina,,Wagner
+04,Sisal,,Araci
+04,Sisal,,Barrocas
+04,Sisal,,Biritinga
+04,Sisal,,Candeal
+04,Sisal,,Cansanção
+04,Sisal,,Conceição do Coité
+04,Sisal,,Ichu
+04,Sisal,,Itiúba
+04,Sisal,,Lamarão
+04,Sisal,,Monte Santo
+04,Sisal,,Nordestina
+04,Sisal,,Queimadas
+04,Sisal,,Quijingue
+04,Sisal,,Retirolândia
+04,Sisal,,Santaluz
+04,Sisal,,São Domingos
+04,Sisal,,Serrinha
+04,Sisal,,Teofilândia
+04,Sisal,,Tucano
+04,Sisal,,Valente
+05,Litoral Sul,,Almadina
+05,Litoral Sul,,Arataca
+05,Litoral Sul,,Aurelino Leal
+05,Litoral Sul,,Barro Preto
+05,Litoral Sul,,Buerarema
+05,Litoral Sul,,Camacan
+05,Litoral Sul,,Canavieiras
+05,Litoral Sul,,Coaraci
+05,Litoral Sul,,Floresta Azul
+05,Litoral Sul,,Ibicaraí
+05,Litoral Sul,,Ilhéus
+05,Litoral Sul,,Itabuna
+05,Litoral Sul,,Itacaré
+05,Litoral Sul,,Itaju do Colônia
+05,Litoral Sul,,Itajuípe
+05,Litoral Sul,,Itapé
+05,Litoral Sul,,Itapitanga
+05,Litoral Sul,,Jussari
+05,Litoral Sul,,Maraú
+05,Litoral Sul,,Mascote
+05,Litoral Sul,,Pau Brasil
+05,Litoral Sul,,Santa Luzia
+05,Litoral Sul,,São José da Vitória
+05,Litoral Sul,,Ubaitaba
+05,Litoral Sul,,Una
+05,Litoral Sul,,Uruçuca
+06,Baixo Sul,,Aratuípe
+06,Baixo Sul,,Cairu
+06,Baixo Sul,,Camamu
+06,Baixo Sul,,Gandu
+06,Baixo Sul,,Ibirapitanga
+06,Baixo Sul,,Igrapiúna
+06,Baixo Sul,,Ituberá
+06,Baixo Sul,,Jaguaripe
+06,Baixo Sul,,Nilo Peçanha
+06,Baixo Sul,,Piraí do Norte
+06,Baixo Sul,,Presidente Tancredo Neves
+06,Baixo Sul,,Taperoá
+06,Baixo Sul,,Teolândia
+06,Baixo Sul,,Valença
+06,Baixo Sul,,Wenceslau Guimarães
+07,Extremo Sul,,Alcobaça
+07,Extremo Sul,,Caravelas
+07,Extremo Sul,,Ibirapuã
+07,Extremo Sul,,Itamaraju
+07,Extremo Sul,,Itanhém
+07,Extremo Sul,,Jucuruçu
+07,Extremo Sul,,Lajedão
+07,Extremo Sul,,Medeiros Neto
+07,Extremo Sul,,Mucuri
+07,Extremo Sul,,Nova Viçosa
+07,Extremo Sul,,Prado
+07,Extremo Sul,,Teixeira de Freitas
+07,Extremo Sul,,Vereda
+08,Médio Sudoeste da Bahia,,Caatiba
+08,Médio Sudoeste da Bahia,,Firmino Alves
+08,Médio Sudoeste da Bahia,,Ibicuí
+08,Médio Sudoeste da Bahia,,Iguaí 
+08,Médio Sudoeste da Bahia,,Itambé
+08,Médio Sudoeste da Bahia,,Itapetinga
+08,Médio Sudoeste da Bahia,,Itarantim
+08,Médio Sudoeste da Bahia,,Itororó
+08,Médio Sudoeste da Bahia,,Macarani
+08,Médio Sudoeste da Bahia,,Maiquinique
+08,Médio Sudoeste da Bahia,,Nova Canaã
+08,Médio Sudoeste da Bahia,,Potiraguá
+08,Médio Sudoeste da Bahia,,Santa Cruz da Vitória
+09,Vale do Jiquiriça,,Amargosa
+09,Vale do Jiquiriça,,Brejões
+09,Vale do Jiquiriça,,Cravolândia
+09,Vale do Jiquiriça,,Elísio Medrado
+09,Vale do Jiquiriça,,Irajuba
+09,Vale do Jiquiriça,,Itaquara
+09,Vale do Jiquiriça,,Itiruçu
+09,Vale do Jiquiriça,,Jaguaquara
+09,Vale do Jiquiriça,,Jiquiriçá
+09,Vale do Jiquiriça,,Lafaiete Coutinho
+09,Vale do Jiquiriça,,Lajedo do Tabocal
+09,Vale do Jiquiriça,,Laje
+09,Vale do Jiquiriça,,Maracás
+09,Vale do Jiquiriça,,Milagres
+09,Vale do Jiquiriça,,Mutuípe
+09,Vale do Jiquiriça,,Nova Itarana
+09,Vale do Jiquiriça,,Planaltino
+09,Vale do Jiquiriça,,Santa Inês
+09,Vale do Jiquiriça,,São Miguel das Matas
+09,Vale do Jiquiriça,,Ubaíra
+10,Sertão do São Francisco,,Campo Alegre de Lourdes
+10,Sertão do São Francisco,,Canudos
+10,Sertão do São Francisco,,Casa Nova
+10,Sertão do São Francisco,,Curaçá
+10,Sertão do São Francisco,,Juazeiro
+10,Sertão do São Francisco,,Pilão Arcado
+10,Sertão do São Francisco,,Remanso
+10,Sertão do São Francisco,,Sento Sé
+10,Sertão do São Francisco,,Sobradinho
+10,Sertão do São Francisco,,Uauá
+11,Bacia do Rio Grande,,Angical
+11,Bacia do Rio Grande,,Baianópolis
+11,Bacia do Rio Grande,,Barreiras
+11,Bacia do Rio Grande,,Buritirama
+11,Bacia do Rio Grande,,Catolândia
+11,Bacia do Rio Grande,,Cotegipe
+11,Bacia do Rio Grande,,Cristópolis
+11,Bacia do Rio Grande,,Formosa do Rio Preto
+11,Bacia do Rio Grande,,Luís Eduardo Magalhães
+11,Bacia do Rio Grande,,Riachão das Neves
+11,Bacia do Rio Grande,,Santa Rita de Cássia
+11,Bacia do Rio Grande,,São Desidério
+11,Bacia do Rio Grande,,Wanderley
+11,Bacia do Rio Grande,,Mansidão
+12,Bacia do Paramirim,,Boquira
+12,Bacia do Paramirim,,Botuporã
+12,Bacia do Paramirim,,Caturama
+12,Bacia do Paramirim,,Érico Cardoso
+12,Bacia do Paramirim,,Ibipitanga
+12,Bacia do Paramirim,,Macaúbas
+12,Bacia do Paramirim,,Paramirim
+12,Bacia do Paramirim,,Rio do Pires
+12,Bacia do Paramirim,,Tanque Novo
+13,Sertão Produtivo,,Brumado
+13,Sertão Produtivo,,Caculé
+13,Sertão Produtivo,,Caetité
+13,Sertão Produtivo,,Candiba
+13,Sertão Produtivo,,Contendas do Sincorá
+13,Sertão Produtivo,,Dom Basílio
+13,Sertão Produtivo,,Guanambi
+13,Sertão Produtivo,,Ibiassucê
+13,Sertão Produtivo,,Ituaçu
+13,Sertão Produtivo,,Iuiu
+13,Sertão Produtivo,,Lagoa Real
+13,Sertão Produtivo,,Livramento de Nossa Senhora
+13,Sertão Produtivo,,Malhada de Pedras
+13,Sertão Produtivo,,Palmas de Monte Alto
+13,Sertão Produtivo,,Pindaí
+13,Sertão Produtivo,,Rio do Antônio
+13,Sertão Produtivo,,Sebastião Laranjeiras
+13,Sertão Produtivo,,Tanhaçu
+13,Sertão Produtivo,,Urandi
+14,Piemonte do Paraguaçu,,Boa Vista do Tupim
+14,Piemonte do Paraguaçu,,Iaçu
+14,Piemonte do Paraguaçu,,Ibiquera
+14,Piemonte do Paraguaçu,,Itaberaba
+14,Piemonte do Paraguaçu,,Itatim
+14,Piemonte do Paraguaçu,,Lajedinho
+14,Piemonte do Paraguaçu,,Macajuba
+14,Piemonte do Paraguaçu,,Mundo Novo
+14,Piemonte do Paraguaçu,,Piritiba
+14,Piemonte do Paraguaçu,,Rafael Jambeiro
+14,Piemonte do Paraguaçu,,Ruy Barbosa
+14,Piemonte do Paraguaçu,,Santa Terezinha
+14,Piemonte do Paraguaçu,,Tapiramutá
+15,Bacia do Jacuípe,,Baixa Grande
+15,Bacia do Jacuípe,,Capela do Alto Alegre
+15,Bacia do Jacuípe,,Gavião
+15,Bacia do Jacuípe,,Ipirá
+15,Bacia do Jacuípe,,Mairi
+15,Bacia do Jacuípe,,Nova Fátima
+15,Bacia do Jacuípe,,Pé de Serra
+15,Bacia do Jacuípe,,Pintadas
+15,Bacia do Jacuípe,,Quixabeira
+15,Bacia do Jacuípe,,Riachão do Jacuípe
+15,Bacia do Jacuípe,,São José do Jacuípe
+15,Bacia do Jacuípe,,Serra Preta
+15,Bacia do Jacuípe,,Várzea da Roça
+15,Bacia do Jacuípe,,Várzea do Poço
+16,Piemonte da Diamantina,,Caém
+16,Piemonte da Diamantina,,Capim Grosso
+16,Piemonte da Diamantina,,Jacobina
+16,Piemonte da Diamantina,,Miguel Calmon
+16,Piemonte da Diamantina,,Mirangaba
+16,Piemonte da Diamantina,,Ourolândia
+16,Piemonte da Diamantina,,Saúde
+16,Piemonte da Diamantina,,Serrolândia
+16,Piemonte da Diamantina,,Umburanas
+16,Piemonte da Diamantina,,Várzea Nova
+17,Semiárido Nordeste II,,Adustina
+17,Semiárido Nordeste II,,Antas
+17,Semiárido Nordeste II,,Banzaê
+17,Semiárido Nordeste II,,Cícero Dantas
+17,Semiárido Nordeste II,,Cipó
+17,Semiárido Nordeste II,,Coronel João Sá
+17,Semiárido Nordeste II,,Euclides da Cunha
+17,Semiárido Nordeste II,,Fátima
+17,Semiárido Nordeste II,,Heliópolis
+17,Semiárido Nordeste II,,Jeremoabo
+17,Semiárido Nordeste II,,Nova Soure
+17,Semiárido Nordeste II,,Novo Triunfo
+17,Semiárido Nordeste II,,Paripiranga
+17,Semiárido Nordeste II,,Pedro Alexandre
+17,Semiárido Nordeste II,,Ribeira do Amparo
+17,Semiárido Nordeste II,,Ribeira do Pombal
+17,Semiárido Nordeste II,,Santa Brígida
+17,Semiárido Nordeste II,,Sítio do Quinto
+18,Litoral Norte e Agreste Baiano,,Acajutiba
+18,Litoral Norte e Agreste Baiano,,Alagoinhas
+18,Litoral Norte e Agreste Baiano,,Aporá
+18,Litoral Norte e Agreste Baiano,,Araçás
+18,Litoral Norte e Agreste Baiano,,Aramari
+18,Litoral Norte e Agreste Baiano,,Cardeal da Silva
+18,Litoral Norte e Agreste Baiano,,Catu
+18,Litoral Norte e Agreste Baiano,,Conde
+18,Litoral Norte e Agreste Baiano,,Crisópolis
+18,Litoral Norte e Agreste Baiano,,Entre Rios
+18,Litoral Norte e Agreste Baiano,,Esplanada
+18,Litoral Norte e Agreste Baiano,,Inhambupe
+18,Litoral Norte e Agreste Baiano,,Itanagra
+18,Litoral Norte e Agreste Baiano,,Itapicuru
+18,Litoral Norte e Agreste Baiano,,Jandaíra
+18,Litoral Norte e Agreste Baiano,,Mata de São João
+18,Litoral Norte e Agreste Baiano,,Olindina
+18,Litoral Norte e Agreste Baiano,,Ouriçangas
+18,Litoral Norte e Agreste Baiano,,Pedrão
+18,Litoral Norte e Agreste Baiano,,Pojuca
+18,Litoral Norte e Agreste Baiano,,Rio Real
+18,Litoral Norte e Agreste Baiano,,Sátiro Dias
+19,Portal do Sertão,,Água Fria
+19,Portal do Sertão,,Amélia Rodrigues
+19,Portal do Sertão,,Anguera
+19,Portal do Sertão,,Antônio Cardoso
+19,Portal do Sertão,,Conceição da Feira
+19,Portal do Sertão,,Conceição do Jacuípe
+19,Portal do Sertão,,Coração de Maria
+19,Portal do Sertão,,Feira de Santana
+19,Portal do Sertão,,Ipecaetá
+19,Portal do Sertão,,Irará
+19,Portal do Sertão,,Santa Bárbara
+19,Portal do Sertão,,Santanópolis
+19,Portal do Sertão,,Santo Estêvão
+19,Portal do Sertão,,São Gonçalo dos Campos
+19,Portal do Sertão,,Tanquinho
+19,Portal do Sertão,,Teodoro Sampaio
+19,Portal do Sertão,,Terra Nova
+20,Vitória da Conquista,,Anagé
+20,Vitória da Conquista,,Aracatu
+20,Vitória da Conquista,,Barra do Choça
+20,Vitória da Conquista,,Belo Campo
+20,Vitória da Conquista,,Bom Jesus da Serra
+20,Vitória da Conquista,,Caetanos
+20,Vitória da Conquista,,Cândido Sales
+20,Vitória da Conquista,,Caraíbas
+20,Vitória da Conquista,,Condeúba
+20,Vitória da Conquista,,Cordeiros
+20,Vitória da Conquista,,Encruzilhada
+20,Vitória da Conquista,,Guajeru
+20,Vitória da Conquista,,Jacaraci
+20,Vitória da Conquista,,Licínio de Almeida
+20,Vitória da Conquista,,Maetinga
+20,Vitória da Conquista,,Mirante
+20,Vitória da Conquista,,Mortugaba
+20,Vitória da Conquista,,Piripá
+20,Vitória da Conquista,,Planalto
+20,Vitória da Conquista,,Poções
+20,Vitória da Conquista,,Presidente Jânio Quadros
+20,Vitória da Conquista,,Ribeirão do Largo
+20,Vitória da Conquista,,Tremedal
+20,Vitória da Conquista,,Vitória da Conquista
+21,Recôncavo,,Cabaceiras do Paraguaçu
+21,Recôncavo,,Cachoeira
+21,Recôncavo,,Castro Alves
+21,Recôncavo,,Conceição do Almeida
+21,Recôncavo,,Cruz das Almas
+21,Recôncavo,,Dom Macedo Costa
+21,Recôncavo,,Governador Mangabeira
+21,Recôncavo,,Maragogipe
+21,Recôncavo,,Muniz Ferreira
+21,Recôncavo,,Muritiba
+21,Recôncavo,,Nazaré
+21,Recôncavo,,Santo Amaro
+21,Recôncavo,,Santo Antônio de Jesus
+21,Recôncavo,,São Felipe
+21,Recôncavo,,São Félix
+21,Recôncavo,,São Francisco do Conde
+21,Recôncavo,,São Sebastião do Passé
+21,Recôncavo,,Sapeaçu
+21,Recôncavo,,Saubara
+21,Recôncavo,,Varzedo
+22,Médio Rio de Contas,,Aiquara
+22,Médio Rio de Contas,,Apuarema
+22,Médio Rio de Contas,,Barra do Rocha
+22,Médio Rio de Contas,,Boa Nova
+22,Médio Rio de Contas,,Dário Meira
+22,Médio Rio de Contas,,Gongogi
+22,Médio Rio de Contas,,Ibirataia
+22,Médio Rio de Contas,,Ipiaú
+22,Médio Rio de Contas,,Itagi
+22,Médio Rio de Contas,,Itagibá
+22,Médio Rio de Contas,,Itamari
+22,Médio Rio de Contas,,Jequié
+22,Médio Rio de Contas,,Jitaúna
+22,Médio Rio de Contas,,Manoel Vitorino
+22,Médio Rio de Contas,,Nova Ibiá
+22,Médio Rio de Contas,,Ubatã
+23,Bacia do Rio Corrente,,Brejolândia
+23,Bacia do Rio Corrente,,Canápolis
+23,Bacia do Rio Corrente,,Cocos
+23,Bacia do Rio Corrente,,Coribe
+23,Bacia do Rio Corrente,,Correntina
+23,Bacia do Rio Corrente,,Jaborandi
+23,Bacia do Rio Corrente,,Santa Maria da Vitória
+23,Bacia do Rio Corrente,,Santana
+23,Bacia do Rio Corrente,,São Félix do Coribe
+23,Bacia do Rio Corrente,,Serra Dourada
+23,Bacia do Rio Corrente,,Tabocas do Brejo Velho
+24,Itaparica,,Abaré
+24,Itaparica,,Chorrochó
+24,Itaparica,,Glória
+24,Itaparica,,Macururé
+24,Itaparica,,Paulo Afonso
+24,Itaparica,,Rodelas
+25,Piemonte Norte do Itapicuru,,Andorinha
+25,Piemonte Norte do Itapicuru,,Antônio Gonçalves
+25,Piemonte Norte do Itapicuru,,Caldeirão Grande
+25,Piemonte Norte do Itapicuru,,Campo Formoso
+25,Piemonte Norte do Itapicuru,,Filadélfia
+25,Piemonte Norte do Itapicuru,,Jaguarari
+25,Piemonte Norte do Itapicuru,,Pindobaçu
+25,Piemonte Norte do Itapicuru,,Ponto Novo
+25,Piemonte Norte do Itapicuru,,Senhor do Bonfim
+26,Metropolitana de Salvador,,Camaçari
+26,Metropolitana de Salvador,,Candeias
+26,Metropolitana de Salvador,,Dias d'Ávila
+26,Metropolitana de Salvador,,Itaparica
+26,Metropolitana de Salvador,,Lauro de Freitas
+26,Metropolitana de Salvador,,Madre de Deus
+26,Metropolitana de Salvador,,Salinas da Margarida
+26,Metropolitana de Salvador,,Salvador
+26,Metropolitana de Salvador,,Simões Filho
+26,Metropolitana de Salvador,,Vera Cruz
+27,Costa do Descobrimento,,Belmonte
+27,Costa do Descobrimento,,Eunápolis
+27,Costa do Descobrimento,,Guaratinga
+27,Costa do Descobrimento,,Itabela
+27,Costa do Descobrimento,,Itagimirim
+27,Costa do Descobrimento,,Itapebi
+27,Costa do Descobrimento,,Porto Seguro
+27,Costa do Descobrimento,,Santa Cruz Cabrália
