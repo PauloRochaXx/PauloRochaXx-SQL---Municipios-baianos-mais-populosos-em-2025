@@ -11,18 +11,21 @@ ALTER TABLE dbo.tabela_cod_mun
 -- Copia o código de município da tabela de códigos para a tabela de população
 -- Garante que os registros em POP2025_20260113 estejam alinhados com a tabela de referência
 UPDATE dbo.POP2025_20260113
-	SET cod_municipio = dbo.tabela_cod_mun.cod_municipio
+SET dbo.POP2025_20260113.cod_municipio = dbo.tabela_cod_mun.cod_municipio
 FROM dbo.POP2025_20260113
 INNER JOIN dbo.tabela_cod_mun
-	ON dbo.POP2025_20260113.nome_municipio = dbo.tabela_cod_mun.nome_municipio;
+    ON dbo.POP2025_20260113.nome_municipio = dbo.tabela_cod_mun.nome_municipio
+   AND dbo.POP2025_20260113.cod_uf         = dbo.tabela_cod_mun.cod_uf;
 
 
 -- Copia o código de município da tabela de códigos para a tabela de territórios de identidade
 -- Garante que os registros em territorios_identidade_bahia estejam alinhados com a tabela de referência
 UPDATE dbo.territorios_identidade_bahia
-	SET cod_municipio = dbo.tabela_cod_mun.cod_municipio
+SET dbo.territorios_identidade_bahia.cod_municipio = dbo.tabela_cod_mun.cod_municipio
 FROM dbo.territorios_identidade_bahia
 INNER JOIN dbo.tabela_cod_mun
-	ON dbo.territorios_identidade_bahia.nome_municipio = dbo.tabela_cod_mun.nome_municipio;
+    ON dbo.territorios_identidade_bahia.nome_municipio = dbo.tabela_cod_mun.nome_municipio
+   AND dbo.tabela_cod_mun.cod_uf = 29;
 --=================================================================================
+
 
